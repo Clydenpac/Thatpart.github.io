@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    min-height: 100vh;
+}
+body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    background-color: pink;
+    color: black;
+    background-image: url(187bc4e07ad6d6d161c633c032f7db57.jpg);
+    background-position: center;
+    background-size: contain;
+}
+a{
+    padding: 0px 10px;
+   
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+    
+    
+}

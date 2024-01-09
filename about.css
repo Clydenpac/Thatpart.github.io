@@ -1,0 +1,10 @@
+*{
+min-height: 500vhs;
+margin: 0;
+}
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 100px 1000px;
+    background-color: pink;
+}
